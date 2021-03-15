@@ -1,0 +1,40 @@
+#photo_cv{
+	display:block;
+    float:left;
+	width:250px;
+    margin-left:10px;
+}
+
+#Colonne-dates, #Colonne-types-competences{
+	display:block;
+    float:left;
+	width:180px;
+	font-size:11.0pt;font-family:"Times New Roman","serif";color:black;
+    margin-left:20px;
+}
+
+#Colonne-etat-civil {
+	display:block;
+	float:left;
+	width:300px;
+	margin-left:200px;
+}
+
+#Colonne-experiences, #Colonne-competences {
+	display:block;
+	float:left;
+	width:600px;
+	font-size:11.0pt;font-family:"Times New Roman","serif";color:black;
+	margin-left:20px;
+}
+	
+.WordSection1 {
+	display:block;
+	float:left;
+}
+
+.liste_rubriques {
+	float:left;
+	width:600px;
+	margin-left:220px;
+}
